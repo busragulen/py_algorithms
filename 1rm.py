@@ -35,8 +35,3 @@ elif x!=1 and x!=0:
 # kaynaklar:
 # https://www.menshealth.com/uk/building-muscle/a748257/how-to-calculate-one-rep-max/
 # https://www.athlegan.com/calculate-1rm
-
-# bora399 özel isteği üzerine buraya hacker imzamı bırakıyorum eyw
-####### WRITTEN #######
-######### BY ##########
-###### LACTROOP #######
